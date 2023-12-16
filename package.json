@@ -31,20 +31,23 @@
   },
   "devDependencies": {
     "@lit-labs/react": "^1.1.0",
-    "@rollup/plugin-replace": "5.0.5",
-    "@rollup/pluginutils": "5.1.0",
+    "@rollup/plugin-replace": "5.0.4",
+    "@rollup/pluginutils": "5.0.5",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.8",
     "@vitejs/plugin-react": "4.2.0",
     "@vitejs/plugin-react-swc": "3.5.0",
     "async": "3.2.4",
+    "autoprefixer": "^10.4.16",
     "glob": "10.3.3",
+    "postcss": "^8.4.32",
     "rollup-plugin-brotli": "3.1.0",
     "rollup-plugin-visualizer": "5.9.2",
     "strip-css-comments": "5.0.0",
+    "tailwindcss": "^3.3.6",
     "transform-ast": "2.4.4",
     "typescript": "5.3.3",
-    "vite": "5.0.9",
+    "vite": "5.0.6",
     "vite-plugin-checker": "0.6.2",
     "workbox-build": "7.0.0",
     "workbox-core": "7.0.0",
@@ -102,8 +105,8 @@
       "lit": "3.1.0"
     },
     "devDependencies": {
-      "@rollup/plugin-replace": "5.0.5",
-      "@rollup/pluginutils": "5.1.0",
+      "@rollup/plugin-replace": "5.0.4",
+      "@rollup/pluginutils": "5.0.5",
       "@vitejs/plugin-react": "4.2.0",
       "@vitejs/plugin-react-swc": "3.5.0",
       "async": "3.2.4",
@@ -113,12 +116,12 @@
       "strip-css-comments": "5.0.0",
       "transform-ast": "2.4.4",
       "typescript": "5.3.3",
-      "vite": "5.0.9",
+      "vite": "5.0.6",
       "vite-plugin-checker": "0.6.2",
       "workbox-build": "7.0.0",
       "workbox-core": "7.0.0",
       "workbox-precaching": "7.0.0"
     },
-    "hash": "102a20fc0d9c53cad215e3198c412bbdf8355508dc97f7b5a482e58b9299343c"
+    "hash": "9bec038a634525033eb70190ba283f9b9c5f6b1f6807f5d015c23482d0be9dce"
   }
 }
